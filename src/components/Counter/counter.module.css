@@ -1,0 +1,14 @@
+.counter {
+  /* TODO */
+  display: flex;
+  gap: 10px;
+  /* margin: auto; */
+}
+.counter button{
+  width: 20px;
+  height: 20px;
+  color: white;
+  background-color: rgb(26, 71, 110);
+  /* margin: auto; */
+  text-align: center;
+}
